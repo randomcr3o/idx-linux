@@ -2,6 +2,7 @@
 
 run Linux with QEMU/KVM inside Google's IDX workspace
 
+IDX HAS OFFICIALLY SUNSETTED BY GOOGLE, THIS REPO IS FOR ARCHIVE PURPOSE
 
 ## quick start
 
